@@ -1,6 +1,6 @@
 const Character = () => {
     const view = `
-    <div class="charactes-inner">
+    <div class="characters-inner">
         <article class="chactacters-card">
             <img src="image" alt="name">
             <h2>Name</h2>
